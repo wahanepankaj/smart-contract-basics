@@ -1,0 +1,24 @@
+{
+  "name": "bhankol-paltform",
+  "version": "1.0.0",
+  "description": "A project that can compile, test and deploy smart contracts on ethereum.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wahanepankaj/smart-contract-basics.git"
+  },
+  "keywords": [
+    "ethereum",
+    "solidity",
+    "react-js"
+  ],
+  "author": "Pankaj Wahane",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/wahanepankaj/smart-contract-basics/issues"
+  },
+  "homepage": "https://github.com/wahanepankaj/smart-contract-basics#readme"
+}
