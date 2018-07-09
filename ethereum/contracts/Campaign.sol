@@ -1,6 +1,6 @@
 pragma solidity ^0.4.17;
 
-contract Campaigns {
+contract Campaign {
     
     address public manager;
     
