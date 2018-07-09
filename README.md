@@ -17,3 +17,11 @@ $ node compile.js
 ```
 
 The compilation output is stored as JSON file(s) in build directory.
+
+## Testing
+
+Inside the project directory, type following commands
+
+```
+$ npm test
+```
