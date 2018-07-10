@@ -8,7 +8,7 @@ $ git clone https://github.com/wahanepankaj/smart-contract-basics.git
 ```
 
 ## Compiling the contracts
-
+      
 Inside the project directory, type following commands
 
 ```
