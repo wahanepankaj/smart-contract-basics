@@ -25,3 +25,18 @@ Inside the project directory, type following commands
 ```
 $ npm test
 ```
+
+# Deploying the smart contract
+
+The deployment script needs two environment variables:
+
+|Variable|Description|
+|----|---|
+|MNEMONIC| Wallet Seed mnemonic string|
+|INFURA_URL| Infura url for the target ethereum network with api key|
+
+
+```
+$ cd ethereum
+$ node deploy.js
+```
