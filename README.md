@@ -34,9 +34,16 @@ The deployment script needs two environment variables:
 |----|---|
 |MNEMONIC| Wallet Seed mnemonic string|
 |INFURA_URL| Infura url for the target ethereum network with api key|
+|FACTORY_ADDRESS| Address for Factory Contract|
 
 
 ```
 $ cd ethereum
 $ node deploy.js
+```
+
+# Running
+
+```
+$ npm run dev
 ```
