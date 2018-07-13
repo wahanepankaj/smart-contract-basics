@@ -6,7 +6,8 @@
   "scripts": {
     "test": "mocha",
     "dev" : "next dev",
-    "start": "next build && next start"
+    "start": "next build && next start",
+    "install": "next build && mocha"
   },
   "repository": {
     "type": "git",
