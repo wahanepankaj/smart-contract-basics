@@ -61,4 +61,4 @@ typings/
 .next
 
 # Prevent accidentally checking in environment variables
-variables
+set_env_variables.sh
